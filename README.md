@@ -2,6 +2,8 @@
 
 > Interact with contracts across all chains including localhost
 
+![ETH-Contractor demo](https://github.com/ghostffcode/eth-contractor/raw/master/assets/eth-contractor.gif)
+
 # 🏄‍♂️ Quick Start
 
 Prerequisites: [Node (v16 LTS)](https://nodejs.org/en/download/) plus [Yarn](https://classic.yarnpkg.com/en/docs/install/) and [Git](https://git-scm.com/downloads)
